@@ -18,7 +18,7 @@ const CreateAccount = ({message = null}) => {
 
 
 
-    setDataAccount(dataAccount)
+    setDataAccount(data)
 
     await signUp({ email, password });
     router.push('/');

@@ -30,7 +30,7 @@ const Index = () => {
       </div>
       <div className="w-full">
         <span>
-          <Link href="/forgot-password">
+          <Link href="/reset-password">
             <a className="link">Forgot password?</a>
           </Link>
         </span>
