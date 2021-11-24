@@ -44,7 +44,7 @@ const Index = () => {
             <div className="rounded-md shadow-sm -space-y-px">
               <div>
                 <label htmlFor="user" className="sr-only">
-                  User Name
+                  Email
                 </label>
                 <input
                   {...register("email")}
@@ -116,6 +116,15 @@ const Index = () => {
               </button>
             </div>
           </form>
+
+          <div className="flex flex-row w-full">
+            <span className="mr-1">You are new? </span>
+            <span>
+              <Link href="/create-account">
+                <a className="link">Please Create a Account here</a>
+              </Link>
+            </span>
+          </div>
         </div>
       </CenteredForm>
     </Layout>

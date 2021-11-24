@@ -54,11 +54,32 @@ export function AuthProvider({ children }) {
   }
 
   //Authentication functions
-  async function signUp(email, password) {
-    return await createUserWithEmailAndPassword(auth, email, password);
+  async function signUp({ email, password }) {
+
+    const { user } = await createUserWithEmailAndPassword(auth, email, password);
+
+    console.debug(user);
+
+    if (!!user?.accessToken) {
+      setCookie(undefined, "mls.token", user.accessToken, {
+        maxAge: 60 * 60 * 14, // 1 hour
+      });
+
+      // setCookie(undefined,'mls.user',user,{
+      //   maxAge:60*60*14,// 1 hour
+      // })
+
+      //api.defaults.headers['Authorization'] = `Bearer ${user.token}`;
+
+      setUser(user);
+
+      Router.push("/");
+    } else {
+      alert("Usuário ou senha inválidos");
+    } 
   }
 
-  async function resetPassword(email) {
+  async function resetPassword({ email }) {
     return await sendPasswordResetEmail(auth, email);
   }
 
