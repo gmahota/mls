@@ -1,17 +1,30 @@
-import React, {useState} from 'react'
+import React, { useState,useEffect ,useContext }  from 'react'
+import { useRouter } from "next/router";
 import Validation from '../forms/validation'
 import Alert from '../alerts'
 
+import { AuthContext } from "../../../contexts/AuthContext";
+
+
+
 const CreateAccount = ({message = null}) => {
-  const [data, onSubmit] = useState(null)
+  const [dataAccount, setDataAccount] = useState(null)
+  const router = useRouter();
+  const { signUp } = useContext(AuthContext);
+
+  const onSubmit = async (data) => {
+    console.log(data)
+    const {email, password} = data;
+
+
+
+    setDataAccount(data)
+
+    await signUp({ email, password });
+    router.push('/');
+  }
+
   let items = [
-    {
-      label: 'Username',
-      error: {required: 'Please enter a valid username'},
-      name: 'username',
-      type: 'text',
-      placeholder: 'Enter you username'
-    },
     {
       label: 'Email',
       error: {required: 'Please enter a valid email'},
@@ -26,10 +39,6 @@ const CreateAccount = ({message = null}) => {
         minLength: {
           value: 4,
           message: 'Your password should have at least 4 characters'
-        },
-        maxLength: {
-          value: 8,
-          message: 'Your password should have no more than 8 characters'
         }
       },
       name: 'password',
@@ -58,7 +67,7 @@ const CreateAccount = ({message = null}) => {
   return (
     <>
       <div className="flex flex-col">
-        {data && message && (
+        {dataAccount && message && (
           <div className="w-full mb-4">
             <Alert
               color="bg-transparent border-green-500 text-green-500"

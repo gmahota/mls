@@ -1,15 +1,17 @@
-import React, { useEffect } from "react";
+import React, { useEffect ,useContext }  from "react";
 import { useRouter } from "next/router";
 
 import Image from 'next/image'
 import Link from 'next/link'
 import nookies  from 'nookies'
+import { AuthContext } from "../contexts/AuthContext";
 
 import illustration from "../../public/images/illustration.svg"
 
 const Logout = () => {
 
   const router = useRouter();
+  const { logout } = useContext(AuthContext);
 
   useEffect(() => {
     const cookies = nookies.get(this)
@@ -17,6 +19,8 @@ const Logout = () => {
     for (const cookie of Object.keys(cookies)) {
       nookies.destroy(this, cookie)
     }
+
+    logout()
    }, [router]);
 
   return (

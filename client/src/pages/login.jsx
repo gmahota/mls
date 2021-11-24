@@ -15,11 +15,11 @@ const Index = () => {
   const { register, handleSubmit } = useForm();
   const { signIn } = useContext(AuthContext);
 
-  const [username, setUserName] = useState("");
+  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
   async function handleSignIn(data) {
-    await signIn({ username, password });
+    await signIn({ email, password });
   }
 
   return (
@@ -44,19 +44,19 @@ const Index = () => {
             <div className="rounded-md shadow-sm -space-y-px">
               <div>
                 <label htmlFor="user" className="sr-only">
-                  User Name
+                  Email
                 </label>
                 <input
-                  {...register("userName")}
-                  id="userName"
-                  name="userName"
+                  {...register("email")}
+                  id="email"
+                  name="email"
                   type="text"
-                  value={username}
-                  onChange={event => setUserName(event.target.value)}
-                  autoComplete="userName"
+                  value={email}
+                  onChange={event => setEmail(event.target.value)}
+                  autoComplete="email"
                   required
                   className="appearance-none rounded-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-t-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm"
-                  placeholder="User Name"
+                  placeholder="Insert the email"
                 />
               </div>
               <div>
@@ -95,7 +95,7 @@ const Index = () => {
               </div>
 
               <div className="text-sm">
-                <Link className="font-medium text-indigo-600 hover:text-indigo-500" href="/">
+                <Link className="font-medium text-indigo-600 hover:text-indigo-500" href="/reset-password">
                   Forgot your password?
                 </Link>
               </div>
@@ -116,6 +116,15 @@ const Index = () => {
               </button>
             </div>
           </form>
+
+          <div className="flex flex-row w-full">
+            <span className="mr-1">You are new? </span>
+            <span>
+              <Link href="/create-account">
+                <a className="link">Please Create a Account here</a>
+              </Link>
+            </span>
+          </div>
         </div>
       </CenteredForm>
     </Layout>
