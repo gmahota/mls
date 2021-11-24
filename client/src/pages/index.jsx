@@ -13,7 +13,7 @@ const Index = () => {
 };
 
 export const getServerSideProps= async (ctx) => {
-  const { 'attendance.token': token } = parseCookies(ctx)
+  const { 'mls.token': token } = parseCookies(ctx)
 
   if (!token) {
     return {
