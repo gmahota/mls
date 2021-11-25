@@ -1,0 +1,3 @@
+[submodule "mls-strapi-athletes-api"]
+	path = mls-strapi-athletes-api
+	url = https://github.com/gmahota/mls-strapi-athletes-api.git
