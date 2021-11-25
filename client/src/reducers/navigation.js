@@ -88,30 +88,15 @@ const initialState = [
         },
         items: [
           {
-            url: "/products",
-            title: "Products",
+            url: "/patients",
+            title: "Patient",
             items: [],
           },
           {
-            url: "/customers",
-            title: "Customer's",
+            url: "/doctors",
+            title: "Doctors's",
             items: [],
-          },
-          {
-            url: "/projects",
-            title: "Project's",
-            items: [],
-          },
-          {
-            url: "/companies",
-            title: "Companies",
-            items: [],
-          },
-          {
-            url: "/typedoc",
-            title: "Type Document",
-            items: [],
-          },
+          }
         ],
       },
     ],
