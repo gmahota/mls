@@ -1,0 +1,822 @@
+{
+    "items":[
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Arroz integral"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Massa integral"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Aveia integral flocos finos"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Quinoa"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Pão de centeio"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Farinha de aveia"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Farinha de arroz integral"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Açúcar mascavo ou de côco"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Batata reno"
+        },
+        {
+            "categories": [
+                "cereais",
+                "carbohidratos"
+            ],
+            "food": "Batata-doce"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Feijão preto"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Feijão nhemba"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Feijão manteiga"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Ervilhas congeladas sem conservantes"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Grão-de-bico"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Lentilhas castanhas (depende do gosto)"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Sementes de linhaça"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Sementes de girassol"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Sementes de abóbora"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Sementes de chia"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Castanhas de cajú"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Amêndoas"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Nozes"
+        },
+        {
+            "categories": [
+                "Feijao",
+                "Sementes",
+                "Proteinas",
+                "Gorduras Boas"
+            ],
+            "food": "Farinha de castanha de cajú"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Cebola"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Tomate"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Brócolis"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Couve Flôr"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Feijão-verde"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Cenoura"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Couve"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Alface"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Beringela"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Rabanetes"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Rúcula"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Beterraba"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Pimentos verdes"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Pimentos vermelhos",
+            "obs": "opcional"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Repolho verde e roxo"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Salsa"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Cebolinha"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Alho"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Abóbora"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Abobrinha"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Cogumelos"
+        },
+        {
+            "categories": [
+                "Vegetais",
+                "Legumes",
+                "Vitaminas",
+                "Minerais"
+            ],
+            "food": "Frutas",
+            "obs": "no geral"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Rajá"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Gerunde e danná"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Açafrão"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Canela em pau"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Canela em pó"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Sal rosa"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Pimenta preta"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Folha de louro"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Azeite"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Vinagre orgânico de maçã"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Leite de soja"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Cacau"
+        },
+        {
+            "categories": [
+                "temperos",
+                "outros"
+            ],
+            "food": "Café"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Papa de aveia ",
+            "obs": "com água, banana, e sementes"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Panquecas de aveia",
+            "obs": "com banana ou maçã, 1ovo"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Panquecas com farinha de castanha de cajú"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Panquecas com farinha de arroz integral"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Iogurte natural low fat (com salada de frutas)"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Salada de frutas"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "2 Peças de fruta"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Iogurte natural low fat"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "1 Mão de castanhas de cajú ou nozes ou amêndoas"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Doce de batata-doce com coco"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Bolo de microondas"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Pipocas salgadas"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Chips de beterraba"
+        },
+        {
+            "categories": [
+                "Pequeno-almoço",
+                "Lanche"
+            ],
+            "food": "Leite achocolatado de vegetais"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Arroz de lentilhas"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Cebolada com cogumelos"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Cebolada simples"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Caril de grão-de-bico"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Caril de ervilhas"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Caril de beringela"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Feijão preto com salada de couve"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Feijão nhemba com côco"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de feijão e batata",
+            "obs": "vegetais a gosto"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de lentilhas",
+            "obs": "vegetais a gosto"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de couve"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de grão-de-bico"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de vegetais"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de espinafre"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de alface"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Salada de rúcula"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Arroz integral de ervilhas"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Molho de tomate simples"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Molho de abóbora com alho e tomate"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Puré de batata"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Puré de abóbora"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Puré de batata-doce"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Legumes salteados"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Sopa de feijão"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Sopa de ervilhas"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Sopa de abóbora"
+        },
+        {
+            "categories": [
+                "almoço",
+                "jantar"
+            ],
+            "food": "Sopa de abobrinha"
+        }
+    ],
+    "formula": [
+        {"items": ["vegetais","legumes"],"perc": 60},
+        {"items": ["proteinas","gorduras boas"],"perc": 20},
+        {"items": ["carbohidratos"],"perc": 20}
+    ],
+    "proibido":{
+        "items":[
+        {"item":"Frituras","category":"Food"},
+        {"item":"Fast Food","category":"Food"},
+        {"item":"Sumos","category":"Sumos"},
+        {"item":"Refrigerantes","category":"Sumos"},
+        {"item":"Farinhas","category":"Doces","obs":"pão, bolo, bolachas, biscoitos, pizza, empadões"},
+        {"item":"Açúcar processado","category":"Doces","obs":"pão, bolo, bolachas, biscoitos, pizza, empadões"},
+        {"item":"Óleo de cozinha","category":"Óleo","obs":"hidrogenado"},
+        {"item":"Carnes processadas ","category":"Carnes","obs":"bacon, chouriço, hambúrguer, salsicha"}
+        ], 
+        "frequencia":"nunca"
+    },
+    "evitar Consumir":{
+        "items":[
+            {"item":"Produtos industrializados ","category":"Enlatados","obs":"sobretudo enlatados" },
+            {"item":"Sumos Diet","category":"Sumos"},
+            {"item":"Refrigerantes Diet","category":"Sumos"},
+            {"item":"Açúcar Artificial","category":"Doces","obs":"sacarina"},
+            {"item":"Carnes ","category":"Carnes","obs":"vaca, porco, cabrito, camarão"}
+        
+        ], 
+        "frequencia":"1x cada 2 semanas",
+        "obs": "se extritamente necessario"
+    },
+    "Com moderação":{
+        "items":[
+            {"item":"Sumos de Frutas Naturais","category":"Sumos"}, 
+            {"item":"Xylitol. Eritritol, Stevea, açúcar de coco, açúcar mascavo","category":"Doces"},
+            {"item":"Óleo de côco","category":"Óleo"},
+            {"item":"Carnes brancas","category":"Carnes","obs":"Frango, perú, ganso, peixe, lulas, ameijoas, carangueijo"}
+        ],
+        "frequencia":"1x cada semana",
+        "obs": "se necessario"
+    }
+}
