@@ -4,3 +4,6 @@
 [submodule "mls-nextjs-client"]
 	path = mls-nextjs-client
 	url = https://github.com/gmahota/mls-nextjs-client.git
+[submodule "mls-guy"]
+	path = mls-guy
+	url = https://github.com/gmahota/mls-guy.git
